@@ -28,7 +28,8 @@ Misuse (impersonating devices, bypassing network controls, evading monitoring) i
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/mac-changer-python.git
+git clone https://github.com/waleedelsmedesy22
+/mac-changer-python.git
 cd mac-changer-python
 python3 -m venv venv
 source venv/bin/activate
