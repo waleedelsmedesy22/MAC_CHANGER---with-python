@@ -1,0 +1,8 @@
+# Requirements for MAC Changer (Python)
+# This project uses only Python standard libraries:
+# - argparse
+# - subprocess
+# - re
+# - os
+# - random
+# No external dependencies are required.
